@@ -23,8 +23,6 @@
 
 - [Como Contribuir](#como-contribuir)
 
-- [Autor](#autor)
-
 - [Licença](#licença)
 
 ## Sobre
@@ -79,17 +77,6 @@ As aulas foram ministradas pelo professor **[Pedro Marins](https://www.linkedin.
 
 ---
 
-## Autor
-
-<a href="https://www.linkedin.com/in/michelmotta/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQG1ifyIF2OJlQ/profile-displayphoto-shrink_800_800/0/1599159843428?e=1630540800&v=beta&t=mYXxsO4WYBIUJC-495e5r6pAIHg0sgEY3rA1uZ0B6E0" width="100px;" alt=""/>
- <br />
- <sub><b>Michel Motta</b></sub></a> <a href="https://www.linkedin.com/in/michelmotta/" title="Nome"></a>
-
-
-[![Twitter Badge](https://img.shields.io/badge/-@michelmotta_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/michelmotta_)](https://twitter.com/michelmotta_) [![Linkedin Badge](https://img.shields.io/badge/-Michel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelmotta/)](https://www.linkedin.com/in/michelmotta/) 
-[![Gmail Badge](https://img.shields.io/badge/-michelmotta.dev.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelmotta.dev@gmail.com)](mailto:michelmotta.dev@gmail.com)
-
 ### Licença
 
 Este projeto está sob a licença [MIT](./LICENSE). </br>
@@ -97,5 +84,5 @@ Feito com ❤️ por Michel Motta 👋🏽 Entre em contato!
 
 
 <h1 align="center">
-  <img alt="License" title="#license" src="https://img.shields.io/github/license/michelmotta-dev/barbeariaAlura" />
+  <img alt="License" title="#license" src="https://img.shields.io/github/license/msvmotta/barbeariaAlura" />
 </h1>
