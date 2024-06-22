@@ -84,5 +84,5 @@ Feito com ❤️ por Michel Motta 👋🏽 Entre em contato!
 
 
 <h1 align="center">
-  <img alt="License" title="#license" src="https://img.shields.io/github/license/msvmotta/barbeariaAlura" />
+  <img alt="License" title="#license" src="https://img.shields.io/github/license/michel-motta/barbearia-alura" />
 </h1>
